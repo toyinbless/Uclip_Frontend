@@ -1,0 +1,8 @@
+.uClip{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    left: 0px;
+    top: 0px;
+}

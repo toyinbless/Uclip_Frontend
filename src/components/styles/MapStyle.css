@@ -1,0 +1,51 @@
+
+
+.map-container {
+    box-sizing: border-box;
+    position: fixed;
+    width: 100%;
+    height: calc(100% - 60px);
+    left: 0px;
+    top:  60px;
+    /* /* width: 100vw; */
+    /* height: 120px;   */
+  
+    /* width: 300px; */
+    border: 1px solid #004488;
+
+ 
+    /* background: #f4e6ee; */
+ 
+}
+
+
+  
+  #map {
+    top:  0px;
+    width: 100vw;
+    height: 89vh; 
+  }
+
+
+
+  .localite-container{ 
+    position: absolute;
+    /* width: 3000px;
+    height:1500px; 
+     */
+   top: 100px;
+
+    font-size: 14px;
+    /* align-items: center; */
+    /* display: inline-block; */
+    /* margin-right: 30px; */
+    left: 650px;
+    /* text-align: center; */
+    z-index: 1000;
+    /* margin-top: 50px; */
+    /* margin-bottom: 30px; */
+    /* border-radius:25% !important;  */
+    width: 500px;
+    height:500px; 
+    
+  }
